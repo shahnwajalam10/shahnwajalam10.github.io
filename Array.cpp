@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//wrong code
+//inserting an element at specific position
 void printArray(int arr[], int size){
     for(int i=0; i<size; i++){
         cout<<arr[i]<<" ";
